@@ -1,7 +1,6 @@
-//this is feature 9 in the main branch
+// feature 9 starts here
 this is feature 9 is updated from desktop
 this is difference from the
-parents one
+this is feature 9
 
-this main branch update from desktop
-//this is end if main_custom feature 9 file
+// feature 9 ends here
