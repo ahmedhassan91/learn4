@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 now it is in feature 10 brnach
-this is feature 
+this is feature
 =======
 // feature 9 starts here
 this is feature 9 is updated from desktop
